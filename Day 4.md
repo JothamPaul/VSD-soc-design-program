@@ -99,4 +99,3 @@ This file specifies pitch, spacing, and other relevant details necessary for eff
 
 ![WhatsApp Image 2025-02-17 at 00 05 23 (3)](https://github.com/user-attachments/assets/dc366e35-f7fa-4da8-b83f-48d59b9a0ff4)
 
-![WhatsApp Image 2025-02-17 at 00 05 25](https://github.com/user-attachments/assets/e11b5d0c-a9ad-44d4-94ba-ea4ba3dadd7e)
